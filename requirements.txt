@@ -1,0 +1,5 @@
+# npm i react-bootstrap [REACT BOOTSTRAP]
+# npm i react-icons [REACT ICONS]
+# npm i react-router  [FOR ROUTING PAGE]
+# npm i react-router-dom [ SAME ]
+
